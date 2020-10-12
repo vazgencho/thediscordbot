@@ -1,5 +1,5 @@
 {
-  "name" : "Test",
+  "name" : "Index.js",
   "description" : "Test",
   "version": "12.18.3",
   "main" : "index.js",
@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
+    "discord.js": "11.1.0"
   },
 }
