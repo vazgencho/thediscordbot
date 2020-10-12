@@ -1,5 +1,5 @@
 {
-  "name" : "Index.js",
+  "name" : "chegg-bot-master 3",
   "description" : "Test",
   "version": "12.18.3",
   "main" : "index.js",
@@ -9,4 +9,4 @@
   "dependencies": {
     "discord.js": "11.1.0"
   },
-}
+};
